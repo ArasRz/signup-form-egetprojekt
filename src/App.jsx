@@ -1,5 +1,6 @@
 import React from 'react'
 import MainSignUp from './components/MainSignUp'
+import "./components/style.css";
 
 
 function App() {
@@ -7,7 +8,7 @@ function App() {
 
   return (
     <>
-      <h1>hello</h1>
+      
       <MainSignUp />
       
     </>
