@@ -16,22 +16,7 @@ const handleSubmit = (e) => {
   console.log(forms)
 }
 
-// const validateData = () => {
-//   let errors = {};
 
-//   if (!firstName) {
-//     errors.firstName = "Firstname is required";
-//   }
-
-//   if (!lastName) {
-//     errors.lastName = "Lastname is required";
-//   }
-
-//   if (!validator.isEmail(email)) {
-//     errors.email = "A valid mail is required";
-//   }
-
-// }
 
   return (
     <div>
